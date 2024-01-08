@@ -1,0 +1,5 @@
+Json-server 사용법
+1. npm install -g json-server
+2. json-server --watch ./src/db/data.json --port 3001
+   (json-server --watch 경로 포트)
+
